@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Reshel Banner](https://github.com/user-attachments/assets/bb482861-88b8-4944-980f-6b3d2ea0e5f8)
 ### Data Analyst | Skilled in Data Analysis, Visualization, and Python | Passionate about Turning Data into Insights
 
 ## Projects 📚
