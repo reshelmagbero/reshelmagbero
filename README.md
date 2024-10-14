@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### Data Analyst | Skilled in Data Analysis, Visualization, and Python | Passionate about Turning Data into Insights
 <!--
 **reshelmagbero/reshelmagbero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
