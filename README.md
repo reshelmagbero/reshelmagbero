@@ -12,4 +12,4 @@
 
 ## Connect with Me 📫
 * [Website](https://reshelmagbero.com/)
-* Linkedin
+* [Linkedin](https://www.linkedin.com/in/reshel-magbero/)
