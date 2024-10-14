@@ -5,9 +5,9 @@
 #### Welcome to my portfolio, where I showcase my projects.
 
 ## Tools 🛠️
-Language: SQL, Python
-Database: Google BigQuery, PostgreSQL, MySQL
-Visualization: Power BI, Tableau, Looker Studio
+* Language: SQL, Python
+* Database: Google BigQuery, PostgreSQL, MySQL
+* Visualization: Power BI, Tableau, Looker Studio
 <!--
 **reshelmagbero/reshelmagbero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
