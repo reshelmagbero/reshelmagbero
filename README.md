@@ -6,7 +6,7 @@
 #### Welcome to my portfolio, where I showcase my projects.
 
 ## Tools 🛠️
-* Language: SQL (Google BigQuery, PostgreSQL, MySQL) | Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+* Language: SQL, Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 * Database: Google BigQuery, PostgreSQL, MySQL
 * Visualization: Power BI, Tableau, Looker Studio
 
