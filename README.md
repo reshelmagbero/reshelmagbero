@@ -11,5 +11,5 @@
 * Visualization: Power BI, Tableau, Looker Studio
 
 ## Connect with Me 📫
-* Website(https://reshelmagbero.com/)
+* [Website](https://reshelmagbero.com/)
 * Linkedin
